@@ -1,0 +1,18 @@
+-- ==== Configuring Gamma.
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Found SNDFILE 
+-- libsndfile: /usr/local/lib/libsndfile.dylib
+-- threading: 
+-- Using Cocoa for window creation
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Compiling with support for: core
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Could NOT find ALSA (missing: ALSA_LIBRARY ALSA_INCLUDE_DIR) 
+-- Compiling with support for: coremidi
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Using the multi-header code from /Users/suntianyu/Desktop/prime/senior/CS190D/allolib_playground/allolib/external/json/include/
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Using libsndfile: /usr/local/lib/libsndfile.dylib
+-- Configuring done (0.6s)
+-- Generating done (0.6s)
+-- Build files have been written to: /Users/suntianyu/Desktop/prime/senior/CS190D/allolib_playground/tutorials/synthesis/build/01_SineEnv_Piano/Release
