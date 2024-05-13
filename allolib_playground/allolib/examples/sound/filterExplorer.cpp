@@ -67,7 +67,7 @@ struct MyApp : public App {
       // Write filtered signal to channels 1 and 2
       io.out(0) = filtered;
       io.out(1) = filtered;
-      if (stft(filtered)) {  // On every window write the spectrum to the arraty
+      if (stft(filtered)) {  // On every window write the spectrum to the array
         for (unsigned int i = 0; i < STFT_SIZE / 2; i++) {
           stft();  // Ignore phase
           spectrum[i] = stft.bin(i).real();
