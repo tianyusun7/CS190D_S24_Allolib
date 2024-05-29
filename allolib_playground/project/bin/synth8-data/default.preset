@@ -1,0 +1,18 @@
+::default
+/amplitude f 0.300000 
+/attackTime f 0.100000 
+/bw1 f 700.000000 
+/bw2 f 900.000000 
+/bwRise f 0.500000 
+/cf1 f 400.000000 
+/cf2 f 400.000000 
+/cfRise f 0.500000 
+/curve f 4.000000 
+/envDur f 1.000000 
+/frequency f 457.688080 
+/noise f 0.000000 
+/pan f 0.000000 
+/releaseTime f 3.000000 
+/sustain f 0.700000 
+/vibratoRate f 0.100000 
+::

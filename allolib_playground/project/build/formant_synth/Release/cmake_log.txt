@@ -13,6 +13,6 @@
 -- Using the multi-header code from /Users/suntianyu/Desktop/prime/senior/CS190D/allolib_playground/allolib/external/json/include/
 -- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
 -- Using libsndfile: /usr/local/lib/libsndfile.dylib
--- Configuring done (0.6s)
--- Generating done (0.4s)
+-- Configuring done (0.5s)
+-- Generating done (0.6s)
 -- Build files have been written to: /Users/suntianyu/Desktop/prime/senior/CS190D/allolib_playground/project/build/formant_synth/Release
